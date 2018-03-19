@@ -1,14 +1,14 @@
 # CCA Spark and Hadoop Developer Exam (CCA175)
-## Hands-on
+
 This repository contains useful information for CCA175 I am preparing for CCA175 and writing this notes while doing that
 
 ### Data Ingest
 
 The skills to transfer data between external systems and your cluster. This includes the following:
 
-- [ ] Import data from a MySQL database into HDFS using Sqoop
+- [x] Import data from a MySQL database into HDFS using Sqoop
 - [ ] Export data to a MySQL database from HDFS using Sqoop
-- [ ] Change the delimiter and file format of data during import using Sqoop
+- [x] Change the delimiter and file format of data during import using Sqoop
 - [ ] Ingest real-time and near-real-time streaming data into HDFS
 - [ ] Process streaming data as it is loaded onto the cluster
 - [ ] Load data into and out of HDFS using the Hadoop File System commands
